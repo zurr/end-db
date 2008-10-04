@@ -1,0 +1,761 @@
+======Rev 5======
+===October, 3====
+====CodeDemon====
+
+ASCENT SUPPORT!!!
+New SVN
+Changed installation format. Will now be installed by tables instead of 1 big SQL file.
+New tool.bat the new tool.bat allows you to dump all of your tables and install the databse by tables.
+Fixed a whole lot of bugs from July-August(to many to be named)
+---------------------------------------------------------
+JULY-AUGUST (FROM THE BEGINING)
+REVISIONS 1-110
+
+
+Fixed Medalian of the horde - Rogue
+
+Added the items bellow -
+
+Quartermaster Urgronn <Thrallmar Quartermaster> 17585
+Crusader's Ornamented Spaulders 35406
+Crusader's Scaled Gauntlets 35413
+Wyrmhide Gloves 35371
+Stalker's Chain Gauntlets 35377
+Seer's Ringmail Gloves 35392
+Seer's Mail Armor 35386
+Seer's Linked Helm 35383
+Savage Plate Helm 35409
+Satin Hood 35339
+Opportunist's Leather Gloves 35366
+Mooncloth Vestments 35337
+Kodohide Spaulders 35364
+Evoker's Silk Amice 35343
+Dreadweave Robe 35332
+Dragonhide Robe 35360
+Logistics Officer Ulrike <Honor Hold Quartermaster> 17657
+Crusader's Ornamented Spaulders 35476
+Crusader's Scaled Gauntlets 35477
+Wyrmhide Gloves 35471
+Stalker's Chain Gauntlets 35475
+Seer's Ringmail Gloves 35473
+Seer's Mail Armor 35472
+Seer's Linked Helm 35474
+Savage Plate Helm 35478
+Satin Hood 35466
+Opportunist's Leather Gloves 35468
+Mooncloth Vestments 35467
+Kodohide Spaulders 35470
+Evoker's Silk Amice 35465
+Dreadweave Robe 35464
+Dragonhide Robe 35469
+Alurmi <Keepers of Time Quartermaster> 21643
+Crusader's Ornamented Chestplate 35402
+Dreadweave Gloves 35328
+Dragonhide Gloves 35356
+Crusader's Scaled Helm 35414
+Seer's Linked Leggings 35384
+Satin Gloves 35338
+Mooncloth Legguards 35334
+Kodohide Legguards 35363
+Evoker's Silk Raiment 35346
+Wyrmhide Helm 35372
+Stalker's Chain Armor 35376
+Seer's Ringmail Headpiece 35393
+Seer's Mail Spaulders 35390
+Opportunist's Leather Spaulders 35369
+Savage Plate Legguards 35410
+Cenarion Expedition Quartermaster> 17904
+Opportunist's Leather Helm 35367
+Mooncloth Shoulderpads 35336
+Kodohide Robe 35365
+Evoker's Silk Trousers 35347
+Dreadweave Hood 35329
+Dragonhide Legguards 35358
+Crusader's Scaled Legguards 35415
+Crusader's Ornamented Gloves 35403
+Wyrmhide Spaulders 35374
+Seer's Ringmail Legguards 35394
+Stalker's Chain Leggings 35379
+Seer's Mail Gauntlets 35387
+Seer's Linked Spaulders 35385
+Savage Plate Gauntlets 35408
+Satin Robe 35342
+Spawned Nakodu <Lower City Quartermaster> 21655
+Wyrmhide Legguards 35373
+Stalker's Chain Helm 35378
+Seer's Ringmail Chestguard 35391
+Seer's Mail Leggings 35389
+Seer's Linked Gauntlets 35382
+Savage Plate Shoulders 35411
+Satin Leggings 35340
+Opportunist's Leather Tunic 35370
+Mooncloth Mitts 35335
+Kodohide Gloves 35361
+Evoker's Silk Cowl 35344
+Dreadweave Mantle 35331
+Dragonhide Helm 35357
+Crusader's Scaled Chestpiece 35412
+Crusader's Ornamented Leggings 3540
+Almaador <Sha'tari Quartermaster> 21432
+Satin Mantle 35341
+Opportunist's Leather Legguards 35368
+Mooncloth Cowl 35333
+Kodohide Helm 35362
+Evoker's Silk Handguards 35345
+Dreadweave Leggings 35330
+Dragonhide Spaulders 35359
+Crusader's Scaled Shoulders 35416
+Crusader's Ornamented Headguard 35404
+Wyrmhide Robe 35375
+Stalker's Chain Spaulders 35380
+Seer's Ringmail Shoulderpads 35395
+Seer's Mail Helm 35388
+Seer's Linked Armor 35381
+Savage Plate Chestpiece 35407
+
+Respawn Black Temple Entirely
+
+Respawned old hillsbrad and the Black Morass
+
+Respawned Ruins of Ahn'Qiraj
+
+Fixed some factions
+
+Added sunwell loot
+
+Spawned Zul'Jin
+
+Spawned Hex Lord Malacrass
+
+Sathrovarr the Corruptor damage fix
+
+Fixed all npc scales
+
+Fixed The following quests -
+
+Tendrasil Ferocitas the Dream Eater
+Teleport to moonglade
+Ursal the mauler
+Buzzbox 323
+Seek redemption!
+Quest Stranglethorn Fever
+Quest Facing Negolash
+Quest Enticing Negolash
+Aquatic form
+Moonglow Vest
+Body And Heart
+Quest Curing the Sick
+
+Fixed Mathrengyl Bearwalker - Druid Trainer Menu
+
+Added magister's terrece spawns
+
+Added missing Season 4 Items
+
+Fixed Magisters' Terrace NPC-Health
+
+Added Ice block for mage trainer
+
+Add creatureloot
+
+Fixed Leatherworking Expert
+
+Fixed Shadoweave and spellfire trainers
+
+Added creature loot for sunwell mobs
+
+Added Sunwell equip and spawns
+
+Deleted Random Gobjects
+
+Fixed the following npc's
+
+Yrma
+Shattered Sun Archmage
+Theremis
+Archmage Ne'thul
+
+Added more sunwell spawns
+
+Added more Magister Terrace spawns
+
+Fixed 3 Arena Orginizers (they should work now)
+
+Spawned the following Gobjects on Quel'Danas
+
+Shattered Sun Banner
+Shattered Sun Banner
+Crystal Ward,
+Shattered Sun Banner
+Meeting Stone
+Meeting Stone
+
+Fixed Blood Knight Honor Guard's sword, Archmage's Guile
+
+Added fishing loot to the followinh zones -
+
+Hellfire, Zangarmarsh, Netherstorm, Shadowmoon, Terokkar, Nagrand, Underbog
+Serpentshrine and Coilfang
+
+Added missing quests
+
+Added the following items -
+
+Handguards of Defiled Worlds
+
+Coif of Alleria
+
+Borderland Paingrips
+
+Thalassian Ranger Gauntlets
+
+Fel Conquerer Raiments
+
+Glimmering Naaru Sliver
+
+Dark Conjuror's Collar
+
+Fixed Druid Quests
+
+Fixed mob factions and undead starting zone
+
+Removed a bugged npc
+
+Removed Felmyst(he was in the wrong spot)
+
+Removed Grand Warlock Athyless and Lady Sacrolosh (they were spawned in the wrong place)
+
+Moved Anchorite Ayuri to her right place
+
+Added emote 28 to the Black Smith Supplier on Quel'Danas
+
+Added Khorium Mines 100% Spawned and Blizzlike
+
+Removed Unnessary Spawns
+
+Spawned more Quel'Danas Mobs
+
+Corrected more npc spawns
+
+Fixed Shattered Sun Marksman Emotes
+
+Corrected 3 more emotes
+
+Spawned K'iru on Isl Quel'Danas
+
+Removed double spawns in the sunwell
+
+Spawned Shattered Sun Magi in Shattrath
+
+Spawned two Shattered Sun Cleric's
+
+Removed NPC in shattrath which is outdated
+
+Fixed NPC Emote for Shattered Sun Trainee's
+
+Removed abd Respawned Shattered Sun Marksman's in Shattrath
+
+Spawned A'dal in shattrath City
+
+Spawned more Shattered Sun Marksmans
+
+Deleted a random mob
+
+Fixed alot of mobs factions on Quel'Danas
+
+Fixed Lieutenant Aden
+
+Spawned Kagoro
+
+Fixed Jimmu Hyal
+
+Fixed random npc respawn time
+
+Spawned Inspector Tarem
+
+Spawned Corporal Thund Splithoof
+
+Added over 250 waypoints for random raid,instance,and world spawns
+
+Fixed some more NPC emotes on Quel'Danas
+
+Deleted alot of double spawns in the sunwell
+
+Spawned some Quel'Danas Mobs
+
+Added emotes to random Quel'Danas Mobs
+
+Added over 50 waypoitns for Isl Of Quel'Danas Mobs
+
+Added waypoints for mobs in The Sunwell
+
+Updated the  2.4.3 Apprentice Riding for 2.4.3
+
+Spawned a missing Flight Path Master
+
+Added Brutal Gladiator Weapons Set - Thanks to SectorSeven
+
+Added Waypoints to Lizzarik and Jorb (50%)
+
+Spawned black bride in Arathi Basin - Thanks to The RusDB
+
+Added way points for Suncale Screechers in the barrens
+
+Added way points for some Hecklefang Hyenas in the barrens
+
+Added some waypoints for some Kolkar Pack Runners
+
+Added way points for Sunscale Scytheclaws in the barrens
+
+Added way points for Bristleback Thronweavers in the barrens
+
+Added way points for some Thunderhawk Hatchling in the barrens
+
+Added some way points for a StormSnout in the barrens
+
+Added way points for Hecklefang Snarlers
+
+Fixed Doan Karhan's faction
+
+Added way points to some Adders and Prarie Dogs in the barrens
+
+Fixed the display's for the Infernal Attackers in Shadow Moon Valley
+
+Fixed the display for a Enraged Earthern spirt in Shadow Moon Valley
+
+Added way points for a Vilewing Chimaera
+
+Added way points to Raider Kerr in Durotar
+
+Added way points to Raider lhash in Durotar
+
+Reset and added way points to Bounty Hunter Kolark in Orgrimmar
+
+Removed Horde Warbringer in the Hall of Brave because he is a old spawn
+
+Spawned Core Hounds in Magmadar Cavern (Molten Core)
+
+Added more way points to a Ancient Core Hound in Molten COre
+
+Added more way points to Baron Geddon in Molten Core
+
+Changed Garr's scale from 1 to 2.5 in Molten Core
+
+Added more way points to Huntress Leafrunner in Darnassus
+
+Added waypoints to some npc's in Dolanaar
+
+Fixed minor and major recipes
+
+Deleted a double spawn in the sunwell
+
+Removed a Earthborer in Ragefire Chasm that is incorrecly spawned
+
+Added way points for a Ragefire Shaman in Ragefire chasm
+
+Added way points for a Searing Blade Cultist
+
+Added way points to Xan'tish the snake vendor in Orgrimmar
+
+Fixed all PvP Battle ground masters in Orgrimmar
+
+Added more way points to Thomas Miller in Stormwind
+
+Fixed all PvP Battle ground masters in Stormwind
+
+Added way points to Deeprum Rat's in the Deeprum Tram
+
+Added some way points to a Broom on Sunstrider Isl
+
+Spawned south sea freebooters to the Island South of Tanaris because it is blizzlike
+
+Added way points to Harvet Watchers in West Fall
+
+Added some way points to Rusty Harvet Golems in West Fall
+
+Added all creature loot for Erratic Sentry's on Quel'Danas 100% blizzlike
+
+Spawned more mobs on Quel'Danas
+
+Added Way points to the Dawnblade Hawkrider's
+
+Changed Skymaster Sunwing name from Bat Handler to Dragonhawk Master
+
+Changed Skymistress Gloaming's name from Bat Handler to Dragonhawk Master
+
+Changed all mout level requirments from level 40 to 30 for 2.4.3
+
+Changed all Riding (Apprentice) Learn Requirments from 40 to 30
+
+Added all 2.4.3 items
+
+Added all 2.4.3 items to vendors
+
+Added all 2.4.3 creature loots
+
+Added way points to Hepzibah Sedewick in The UnderCity
+
+Added way points to the Cats at The Sunspire
+
+Respawned Trayanise in Silvermoon City
+
+Respawned Tiny Arcane Construct in Silvermoon City
+
+Added waypoints to Traynise in Silvermoon City
+
+Added waypoints to Tiny Arcane Construct
+
+Removed Blood Elf Commoners at Murder Row that were not supposed to be there
+
+Spawned a Silvermoon City Guard is Silvermoon City
+
+Added waypoints to a Silvermoon City Guard in Silvermoon City
+
+Added way points to a Broom in Silvermoon City
+
+Removed a random Cat in Silvermoon City
+
+Removed 4 more Blood Elf Commoners in Silvermoon City
+
+Spawned Champion Vranesh in Silvermoon City
+
+Added waypoints to Champion Vranesh
+
+Spawned 2 FrostWolf Emissary's in Silvermoon City
+
+Added waypoints to a Broom in Silvermoon City
+
+Spawned a Horde Warbringer in Silvermoon City
+
+Spawned a Arcane Guardian in Silvermoon City
+
+Added waypoints to a Arcane Guardian in Silvermoon City
+
+Added a emote to Danwe in Silvermoon City
+
+Spawned 2 Frostwolf Emissary's in Silvermoon City
+
+Spawned a Arcane Guardian in Silvermoon City
+
+Added waypoints to a Arcane Guardian in Silvermoon City
+
+Added waypoints to a Arcane Guardian in Silvermoon City
+
+Respawned Harene Plainwalker to her correct place in Silvermoon City
+
+Spawned Conjuer Tyren in Silvermoon City
+
+Spawned a Broom in Silvermoon City
+
+Added waypoints to a Broom in Silvermoon City
+
+Added waypoints to Sirlgna'no in Silvermoon City
+
+Added waypoints Welethelon in Silvermoon City
+
+Removed 2 Bloodelf Commonrs in Silvermoon City
+
+Added alot of waypoints to Rartheln in Silvermoon Cty
+
+Removed 2 Bloodelf Commonrs in Silvermoon City
+
+Added waypoints to Conjurer Tyren
+
+Added waypoints to Bithrus in Silvermoon City
+
+Respawned Overlord Runthak to his correct possession
+
+Spawned Grinkle in Orgrimmar
+
+Changed Demonic Figurine Buy Price to Blizzlike
+
+Changed wild Berries Buy Price to Blizzlike
+
+Changed Ankh Buy Price to Blizzlike
+
+Changed Holy Candels Buy Price to Blizzlike
+
+Changed Sacred Candel Buy Price to Blizzlike
+
+Changed Rune of Teleportion Buy Price to Blizzlike
+
+Changed Run of Portals Buy Price to Blizzlike
+
+Changed Wild Quillvine Buy Price to Blizzlike
+
+Changed Flintweed Seed Buy Price to Blizzlike
+
+Changed Ironseed Buy Price to Blizzlike
+
+Changed Hornbeam Seed Buy Price to Blizzlike
+
+Changed Stranglethorn Seed Buy Price to Blizzlike
+
+Changed Ashwood Seed Buy Price to Blizzlike
+
+Changed Symbol of Divinity Buy Price to Blizlike
+
+Changed Tough Jerky Buy Price to Blizzlike
+
+Changed Roasted Quail Buy Price to Blizzlike
+
+
+Changed Wil Hog Shank Buy Price to Blizzlike
+
+Changed Haunch of Meat Buy Price to Blizzlike
+
+Changed Cured Ham Steak Buy Price to Blizzlike
+
+Changed Mutton Chop Buy Price to Blizzlike
+
+Changed Mild SPices Buy Price to Blizzlike
+
+Changed Hot Buy Price to Blizzlike
+
+Changed Simpe Flour Buy Price to Blizzlike
+
+Changed Recipe: Smoked Sagefish Buy Price to Blizzlike
+
+Changed Recipe: Sagefish Delight Buy Price to Blizzlike
+
+Added more waypoints to Felika in Orgrimmar
+
+Changed Design: Heavy Golden Necklace of Battle Buy Price to Blizzlike
+
+Changed Mining Pick Buy price to Blizzlike
+
+Changed Empty Vial Buy Price to Blizzlike
+
+Changed Coarse Thread Buy Price to Blizzlike
+
+Changed Red and Black Dye Buy Price to Blizzlike
+
+Changed Dust of Decay Buy Price to Blizzlike
+
+Changed Fine Thread Buy Price to Blizzlike
+
+Changed Fishing Pole Buy Price to Blizzlike
+
+Changed Heavy Silken Thread Buy Price to Blizzlike
+
+Changed Copper Rod Buy Price to Blizzlike
+
+Changed Strong Flux Buy price to Blizzlike
+
+Changed Salt Buy Price to Blizzlike
+
+Changed Crystal Vial Buy Price to Blizzlike
+
+Changed Gray Dye Buy Price to Blizzlike
+
+Changed Imbued Vial Buy Price to Blizzlike
+
+Changed Yellow Dye Buy Price to Blizzlike
+
+Changed Purple Dye Buy Price to Blizzlike
+
+Changed Nightcrawlers Buy Price to Blizzlike
+
+Changed Bright Baubles Buy Price to Blizzlike
+
+Changed Rune Thread Buy Price to Blizzlike
+
+Changed Skinning Knife Buy Price to Blizzlike
+
+Changed Recipe: Free Action Potion Buy Price to Blizzlike
+
+Changed Recipe: Elixer of Superior Defense Buy Price to Blizzlike
+
+Updated Shaman Trainer
+
+Spawned Deserter Lieutenant with full data
+
+Added Noxious Flayer spawns
+
+Added Noxious Flayer creatureloot
+
+Added Noxious Flayer way points
+
+Added a mount for Champion Vranesh
+
+Added a emote to a Frostwolf Emissary in Silvermoon City
+
+Fixed a Imp at the Undead Starting zone that was attacking Players
+
+Made StormSpike Emissary nuetral because they were attacking horde
+
+Updated most to all 2.4.3 Buy Price
+
+Added more Badge of Justice loots
+
+Fixed some Karazhan quests
+
+Fixed up Ontuvo faction
+
+Spawned more stuff on Quel'Danas
+
+Added more waypoints to mobs on Quel'Danas
+
+Spawned Major Mills
+
+Spawned Theremore Prisonors
+
+Spawned Gorgannon
+
+Removed random event spawns in the world
+
+Spawned more mobs on Quel'Danas
+
+Added waypoints to mobs on Quel'Danas
+
+Spawned a goject on Quel'Danas
+
+Removed a double spawn in the sunwell
+
+Added waypoints to 4 mobs in the sunwell
+
+removed 4 double spawns in the sunwell
+
+Respawned 2 Stormwind City Guards
+
+Added waypoints to a Stormwin  City Guard
+
+Removed Roman,Just,and Brandon from stormwind because they are double spawned
+
+Fixed the "The Kessel Run" quest giver
+
+Fixed Bash'ir Thief Attacks
+
+Fixed Ring of Hardened Resolve
+
+Fixed Ring of Omnipotence
+
+Fixed Aegis of Angelic Fortune
+
+Added alot more npc's Gobjects and item loots in Dustwallow Marsh
+
+Removed all double spawns in the sunwell
+
+Added a flying waypoint to Felymyst
+
+Added alot of sunwell loot
+
+Added and spawned more sunblade priests
+
+Updated the buy price for mounts for 2.4.3
+
+Added items to Ontuvo
+
+Deleted all unused quests
+
+Fixed a hunter trainer
+
+Fixed Quest: Innoculation
+
+Fixed Chamoo-ra's faction
+
+Fixed Blackfathom Myrmidom faction
+
+Respawned a Northshire Guard
+
+Added way points to a Northshire Guard
+
+Spawned a rabbit in Northshire Valley
+
+Added way points to a rabbit in Northshire Valley
+
+Added about 50 way points to two Stormwind City Guards in Stormwind
+
+Added 24 way points to a Stormwind City Guard in Stormwind
+
+Added 33 way points to a Stormwind City Guard in Stormwind
+
+Added some random way points to a Stormwind City Guard (Blizzlike)
+
+Removed adam and Billy because they were double spawned
+
+Added more sunwell mobs
+
+Added a gobject in the sunwell
+
+Fixed a hunter spell 
+
+Fixed verious Class spells
+
+Added ArcEmu Fixes
+
+Added Sun++ Fixes
+
+Added random npc spawns 
+
+Removed all double spawns in the sunwell
+
+Removed all double spawns in Magisters Terrace
+
+Fixed Felmyst (he should be flying now)
+
+Added all Haris Piltons Vendor loot
+
+Added about 1k way points in the world
+
+Added MoonPlusPlus
+
+Fixed up every trainer in the world
+
+Added and fixed Azreth the Merciless
+
+Fixed a Stable Master in NorthShire
+
+Fixed the frostsaber mount
+
+Fixed all the battlemasters in orgrimmar(they should be working now)
+
+Fixed all the battlemasters in stormwind(they should be working now)
+
+Fixed all the emissarys in the world(they should be working now)
+
+Fixed all the battlemasters in shattrath(they should be working now)
+
+Fixed all the battlemasters in thunderbluff(they should be working now)
+
+Fixed all the battlemasters in undercity(they should be working now)
+
+Fixed all the battlemasters in silvermoon city(they should be working now)
+
+Fixed all the battlemasters in Ironforge(they should be working now)
+
+Fixed all the battlemasters in The Exodar(they should be working now)
+
+Fixed all the battlemasters in Darnassus(they should be working now)
+
+Fixed the Stormpike Emissarys (they should be working now)
+
+Update some vendors on Quel'Danas
+
+Removed more double spawns in the sunwell
+
+Added way points to a npc in the sunwell
+
+Update:
+
+Added -
+
+Darkspine Iron Ore
+Quest Item
+
+To -
+
+Greengill Slave
+Darkspine Myrmidon
+Darkspine Siren
+Freed Greengill Slave
+
+- Fixed Darkblade Summoner's Imps
+
+-Fixed Dragonhawk Riders
+
+-Changed Guard Emotes
+
+-Repositioned Gaurds
+
+Added way points to some npc's on Isle of Quel'Danas
